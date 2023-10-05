@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OTPLogin</string>
+    <string name="otpverification">otpVerification</string>
+    <string name="we_will_send_you_an_otp_on_this_mobile_number">we will send you an otp on this mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="_91">+91</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">get otp</string>
+    <string name="enter_the_otp_sent_to_you">enter the otp sent to you</string>
+    <string name="didn_t_receive_the_otp">didn\'t receive the otp</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">verify</string>
+</resources>

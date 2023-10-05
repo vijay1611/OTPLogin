@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81132890308",
+    "project_id": "otp-verification-ac6e3",
+    "storage_bucket": "otp-verification-ac6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81132890308:android:c07487a47b9f40a4e40191",
+        "android_client_info": {
+          "package_name": "com.vijay.otplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCji4l-pXS6vt5l86jX9AjXcILhnLtZJzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
